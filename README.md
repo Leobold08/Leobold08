@@ -9,6 +9,7 @@ Coding laguages i have used:
 - Python
 - C
 - HTML
+  Here is my portfolio for more info https://leobold08.github.io/portfolio/
 
 
 
