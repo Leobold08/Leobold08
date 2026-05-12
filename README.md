@@ -3,7 +3,7 @@
 My name is Leo and i am a Game developer.
 I mostly work on games but i also do web and server stuff.
 My preferred coding language is C# and i make games in unity.
-Coding laguages i have used:
+Coding languages i have used:
 - C#
 - UE5 blueprints
 - Python
